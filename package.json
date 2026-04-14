@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build": "wp-pwa build lab7-UX308",
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "npx jasmine"
